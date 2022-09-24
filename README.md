@@ -1,6 +1,6 @@
 # Lara Wishlist
 
-Make Eloquent Model Wishlist
+Make Eloquent Model models wishlistable
 
 # Installation
 
