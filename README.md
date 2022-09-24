@@ -1,4 +1,4 @@
-# Lara Wishlist
+# Laravel Wishlist
 
 Make Eloquent Model models wishlistable
 
